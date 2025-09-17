@@ -2,8 +2,8 @@ Python/.venv/
 Python/build/
 Python/dist/
 Python/generate_embeddings.spec
-Python/Reference
-Python/email_to_json
+Python/Reference.py
+Python/email_to_json.py
 DATA/100_Emails_DL/
 C#/SmartEmail/bin/
 C#/SmartEmail/obj/
