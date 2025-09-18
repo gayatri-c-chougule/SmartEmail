@@ -1,6 +1,6 @@
 # 📧 SmartEmail
 
-Video: [Watch Demo](https://www.youtube.com/watch?v=FSk5HyYWbcU)
+Video: [Watch Demo](https://www.youtube.com/watch?v=D0VbAtFDrxc)
 
 ---
 ## 🚀 Introduction
